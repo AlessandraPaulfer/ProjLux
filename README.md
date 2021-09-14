@@ -10,5 +10,5 @@ Esse programa faz as seguintes funcionalidades:
 
 # Endpoints consumidos da API externa
 
- /Jogadores POST
+ /Jogador POST
  /Time POST
